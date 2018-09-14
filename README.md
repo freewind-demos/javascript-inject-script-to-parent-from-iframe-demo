@@ -1,7 +1,7 @@
-JavaScript Modify Parent Element From "iframe" Demo
+JavaScript Inject Script to Parent from iframe Demo
 ===================================================
 
-在`iframe`中内页的javascript如何修改外面的html?
+在`iframe`中内页的javascript如何向外面的HTML插入一段script，执行一些操作？
 
 ```
 npm install
